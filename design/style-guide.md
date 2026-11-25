@@ -1,1 +1,1 @@
-# lyftmetrics style guide
+# liftmetrics style guide
